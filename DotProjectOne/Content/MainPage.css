@@ -1,0 +1,11 @@
+﻿
+
+li {
+    display:inline-block;
+    list-style:none;
+}
+
+.btn-lg {
+    border-radius:0px;
+    border:none;
+}
