@@ -1,4 +1,19 @@
-﻿
+﻿.overall {
+    display:table;
+}
+
+.header {
+    display: table-row;
+}
+
+.banner {
+    width:auto;
+}
+
+ul {
+    text-align: center;
+    -webkit-padding-start:0px;
+}
 
 li {
     display:inline-block;
@@ -8,4 +23,12 @@ li {
 .btn-lg {
     border-radius:0px;
     border:none;
+}
+
+.container {
+    display:table-row;
+}
+
+.main h1 {
+    text-align:center;
 }

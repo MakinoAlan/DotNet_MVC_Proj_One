@@ -77,6 +77,8 @@
     <Compile Include="Controllers\Item2Controller.cs" />
     <Compile Include="Controllers\Item3Controller.cs" />
     <Compile Include="Controllers\Item1Controller.cs" />
+    <Compile Include="Controllers\Item4Controller.cs" />
+    <Compile Include="Controllers\Item5Controller.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Web.config" />
@@ -106,6 +108,8 @@
     <Content Include="Views\Item\item2.cshtml" />
     <Content Include="Views\Item\item3.cshtml" />
     <Content Include="Views\Item\item1.cshtml" />
+    <Content Include="Views\Item\item4.cshtml" />
+    <Content Include="Views\Item\item5.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Scripts\jquery-3.2.1.slim.min.map" />
