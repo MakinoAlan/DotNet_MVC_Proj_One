@@ -11,6 +11,7 @@ namespace DotProjectOne.Controllers
     {
         public ActionResult Index()
         {
+			// Assignment 0 change
             var mvcName = typeof(Controller).Assembly.GetName();
             var isMono = Type.GetType("Mono.Runtime") != null;
 
